@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-aead-serpent (0.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Team Upload.
+    + Source-only upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nilesh Patra <nilesh@debian.org>  Tue, 24 Oct 2023 18:14:42 +0530
+
+golang-github-aead-serpent (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1052531)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 23 Sep 2023 20:44:02 -0400
